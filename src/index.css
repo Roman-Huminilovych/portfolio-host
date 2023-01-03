@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Acier';
+  src: local('Acier'), url(./Assets/acier.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'),
+    url(./Assets/Raleway-ExtraBold.ttf) format('truetype');
+}
+
+/* @font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"), url(./Assets/Montserrat-Bold.ttf) format("truetype");
+} */
+
+.main-menu :after {
+  content: '';
+  position: absolute;
+  width: 0%;
+  height: 1px;
+  display: block;
+  transition: all 0.5s ease;
+  bottom: 25%;
+}
+.main-menu :hover::after {
+  width: 80%;
+  height: 1px;
+  background-color: #fff;
+}
+
+.home-menu a {
+  color: #ffffff;
+  font-size: 1.3rem;
+}
+
+.home-menu a:hover {
+  color: #880808;
+}
+
+.homepage-main-div {
+  min-height: 100vh;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
+
+.about-page-div {
+  background-color: black;
+  min-height: 100vh;
+}
+
+.video-div {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+a:link {
+  text-decoration: none;
+  /* color: black; */
+}
+a:visited {
+  text-decoration: none;
+  /* color: black; */
+}
+a:hover {
+  text-decoration: none;
+  /* color: black; */
+}
+a:active {
+  text-decoration: none;
+  /* color: black; */
+}
+
+.about-pic {
+  max-width: 100%;
+  opacity: 0.75;
+}
+
+.desktop-vid {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translateX(calc((100% - 100vw) / 2));
+}
+.video-project {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
