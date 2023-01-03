@@ -13,7 +13,7 @@ const About = () => {
   const MainText = useSpring({
     to: { opacity: 1 },
     from: { opacity: 0 },
-    delay: 500,
+    delay: 400,
     config: config.molasses,
   });
 
