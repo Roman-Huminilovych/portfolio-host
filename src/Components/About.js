@@ -2,7 +2,6 @@ import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import ResponsiveAppBar from './ResAppBar';
-// import dylanpic from "../Assets/B&WME.png";
 import romanpic from '../Assets/main.jpg';
 
 // import Footer from './Footer';
@@ -32,7 +31,11 @@ const About = () => {
             }}
           >
             <Grid lg={6}>
-              <img className="about-pic" alt="Dylan Dube" src={romanpic}></img>
+              <img
+                className="about-pic"
+                alt="Roman Lovich"
+                src={romanpic}
+              ></img>
             </Grid>
             <Grid lg={6}>
               <Typography

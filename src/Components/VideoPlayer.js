@@ -1,6 +1,6 @@
 import ReactPlayer from 'react-player';
 import romanvid from '../Assets/video-dek.mp4';
-import mobromanvid from '../Assets/video-dek.mp4';
+import mobromanvid from '../Assets/video-mob.mp4';
 
 const VideoPlayer = () => {
   //Sets video based on screen width
