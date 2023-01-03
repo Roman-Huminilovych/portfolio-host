@@ -2,6 +2,7 @@
   "name": "dylanweb",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://roman-huminilovych.github.io/portfolio-host/",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
