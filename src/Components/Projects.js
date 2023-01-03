@@ -1,6 +1,6 @@
 import Container from '@mui/material/Container';
 import ResponsiveAppBar from './ResAppBar.js';
-import WorkGallery from './WorkGallery.jsx';
+import WorkGallery from './WorkGallery.js';
 
 const Projects = () => {
   return (
