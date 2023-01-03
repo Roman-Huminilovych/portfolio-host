@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee17a10d.css",
+    "main.js": "/static/js/main.ce87200e.js",
+    "static/media/video-dek.mp4": "/static/media/video-dek.b6508d46624ff4f39de8.mp4",
+    "static/media/Raleway-ExtraBold.ttf": "/static/media/Raleway-ExtraBold.ac7bcb8a0f4abc1d6591.ttf",
+    "static/media/main.jpg": "/static/media/main.f690fefa2bd2e789f8d8.jpg",
+    "static/media/acier.ttf": "/static/media/acier.7c6c9a8e8943d62f19c7.ttf",
+    "index.html": "/index.html",
+    "main.ee17a10d.css.map": "/static/css/main.ee17a10d.css.map",
+    "main.ce87200e.js.map": "/static/js/main.ce87200e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee17a10d.css",
+    "static/js/main.ce87200e.js"
+  ]
+}
