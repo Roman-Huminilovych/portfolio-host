@@ -5,7 +5,7 @@ import ResponsiveAppBar from './ResAppBar';
 // import dylanpic from "../Assets/B&WME.png";
 import romanpic from '../Assets/main.jpg';
 
-import Footer from './Footer';
+// import Footer from './Footer';
 import { useSpring, animated, config } from '@react-spring/web';
 import { about_par } from './contact_info.js';
 

@@ -5,7 +5,7 @@ import App from './Components/App';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 ReactDOM.render(
-  <Router basename="/portfolio-host">
+  <Router>
     <App />
   </Router>,
   document.getElementById('root')
