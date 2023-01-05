@@ -14,7 +14,7 @@ const VideoPlayer = () => {
           loop
           muted
           playsinline
-          height="100%"
+          height="110%"
           width="100%"
         />
       </div>
