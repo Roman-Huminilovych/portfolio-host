@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-host/static/css/main.55949a07.css",
-    "main.js": "/portfolio-host/static/js/main.fd598926.js",
+    "main.js": "/portfolio-host/static/js/main.8d769b6f.js",
     "static/media/video-dek.mp4": "/portfolio-host/static/media/video-dek.aa7bfe68aae82e18aba6.mp4",
     "static/media/video-mob.mp4": "/portfolio-host/static/media/video-mob.d044b15da010ee241bd6.mp4",
     "static/media/Raleway-ExtraBold.ttf": "/portfolio-host/static/media/Raleway-ExtraBold.ac7bcb8a0f4abc1d6591.ttf",
@@ -9,10 +9,10 @@
     "static/media/acier.ttf": "/portfolio-host/static/media/acier.7c6c9a8e8943d62f19c7.ttf",
     "index.html": "/portfolio-host/index.html",
     "main.55949a07.css.map": "/portfolio-host/static/css/main.55949a07.css.map",
-    "main.fd598926.js.map": "/portfolio-host/static/js/main.fd598926.js.map"
+    "main.8d769b6f.js.map": "/portfolio-host/static/js/main.8d769b6f.js.map"
   },
   "entrypoints": [
     "static/css/main.55949a07.css",
-    "static/js/main.fd598926.js"
+    "static/js/main.8d769b6f.js"
   ]
 }
