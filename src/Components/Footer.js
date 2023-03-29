@@ -17,7 +17,7 @@ const Footer = () => {
         fontFamily: 'Montserrat',
       }}
     >
-      Created bt Roman Lovich
+      Created by Me
     </Link>
   );
 };
